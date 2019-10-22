@@ -1,6 +1,6 @@
 # XG_Boost-SKlearn-Classifier-Regressor-w-Parameter-Tuning
 
-XG Boost is a gradient boosted decision tree model that had proved to be a must have in your machine learning toolkit due to its efficiency and accuracy.
+XG Boost is a gradient boosted decision tree model that had proven to be a must have in your machine learning toolkit due to its efficiency and accuracy.
 
 This repo contains an sample implementation of XGBoost with Sklearn Wrapper (i.e. XGBClassifier and XGBRegressor) for ease of implementation with Sklearn's GridSearchCV for parameter tuning.
 
